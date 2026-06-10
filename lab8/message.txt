@@ -1,0 +1,24 @@
+Jab Jabich coach statistics
+(Past 3 months)
+
+Map winrate
+Based on 4 maps
+100%
+
+CT round winrate
+Based on 40 rounds
+85%
+
+T round winrate
+Based on 22 rounds
+82%
+
+Best map
+Based on 1 maps
+Nuke
+100%
+
+Worst map
+Based on 3 maps
+Mirage
+100%
